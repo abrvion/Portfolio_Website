@@ -3,6 +3,14 @@
 
 🌐 Live site: 
 
+## 🎖️ Features 
+- Figma to HTML
+- sleek and modern design
+- clean ui ux
+- responsive design
+- clean code and reusable blocks
+- optimized development with Bootstrap
+
 ## 🚀 Tech Stack
 - FIGMA
 - HTML
