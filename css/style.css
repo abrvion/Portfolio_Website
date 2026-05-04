@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif, Arial, Helvetica;
+}
+
+.header__logo {
+  font-weight: 600;
+}
+
+header ul li a:hover {
+  color: gray !important;
+}
+
+.btn-color {
+  background-color: black;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.about {
+  background-color: #f9fafb;
+}
+
+.btn-about {
+  background-color: white;
+}
+
+.card-p {
+  color: #686874;
+}
+
+.card-radius {
+  border-radius: 10px;
+}
+
+.card-radius img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+footer p {
+  text-align: center;
+  font-size: 15px;
+  color: #686874;
+}
+
+.glass-header {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  z-index: 1030;
+}
