@@ -16,4 +16,5 @@
 - HTML
 - CSS
 - BOOTSTRAP
+- Media Query
 
