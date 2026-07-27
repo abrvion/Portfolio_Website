@@ -2,7 +2,7 @@
 > This is a modern and sleek, simple static portfolio website for my latest project showcase
 
 ## 🌐 Live site:  https://abrvion.github.io/Portfolio_Website/
-<img >
+<img width="300" src="Screenshot 2026-07-27 191840.png" alt="website screanshot">
 
 ## 🎖️ Features 
 - Figma to HTML
