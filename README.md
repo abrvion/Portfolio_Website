@@ -4,7 +4,7 @@
 🌐 Live site:  https://abrvion.github.io/Portfolio_Website/
 <img width="500" src="Screenshot 2026-07-27 191840.png" alt="website screanshot">
 
-### Overview 📝
+### 📝 Overview 
 This is a simple sample portfolio website made using Bootstrap components and custom CSS, with the help of a Figma design for the web design 
 
 ### 🎖️ Features 
