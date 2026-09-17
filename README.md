@@ -4,7 +4,10 @@
 🌐 Live site:  https://abrvion.github.io/Portfolio_Website/
 <img width="500" src="Screenshot 2026-07-27 191840.png" alt="website screanshot">
 
-#### 🎖️ Features 
+### Overview 📝
+This is a simple sample portfolio website made using Bootstrap components and custom CSS, with the help of a Figma design for the web design 
+
+### 🎖️ Features 
 - Figma to HTML
 - sleek and modern design
 - clean ui ux
@@ -12,19 +15,13 @@
 - clean code and reusable blocks
 - optimized development with Bootstrap
 
-#### 🚀 Tech Stack
+### 🚀 Tech Stack
 - FIGMA
 - HTML
 - CSS
 - BOOTSTRAP
 - Media Query
 
-### 🛠️ Installation
-
-Follow these steps to get a local copy of We Try up and running on your machine.
-
-### Prerequisites
-* Make sure you have **Node.js** installed ([Download Node.js](https://nodejs.org))
 
 
 
